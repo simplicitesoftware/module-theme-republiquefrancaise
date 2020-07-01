@@ -12,4 +12,20 @@
 =======================================
 
 "République Française" theme
+----------------------------
+
+### Installation
+
+Create a module named `RepubliqueFrancaise` with the following settings:
+
+```json
+{
+	"type": "git",
+	"origin": {
+		"uri": "https://github.com/simplicitesoftware/module-theme-republiquefrancaise.git"
+	}
+}
+```
+
+And import the module
 

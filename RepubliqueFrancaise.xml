@@ -14,7 +14,23 @@
 	}
 }]]></mdl_url>
 		<mdl_lastupd/>
-		<mdl_comment><![CDATA["République Française" theme]]></mdl_comment>
+		<mdl_comment><![CDATA["République Française" theme
+----------------------------
+
+### Installation
+
+Create a module named `RepubliqueFrancaise` with the following settings:
+
+```json
+{
+	"type": "git",
+	"origin": {
+		"uri": "https://github.com/simplicitesoftware/module-theme-republiquefrancaise.git"
+	}
+}
+```
+
+And import the module]]></mdl_comment>
 	</data>
 </object>
 <object>
