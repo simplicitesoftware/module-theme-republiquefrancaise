@@ -4,8 +4,8 @@
 	<name>Module</name>
 	<action>upsert</action>
 	<data>
-		<mdl_name>RepubliqueFrancaise</mdl_name>
-		<mdl_version>4.0</mdl_version>
+		<mdl_name>RepubliqueFrancaiseTheme</mdl_name>
+		<mdl_version>5</mdl_version>
 		<mdl_prefix/>
 		<mdl_url><![CDATA[{
 	"type": "git",
@@ -65,7 +65,7 @@ And import the module]]></mdl_comment>
 		<thm_menu_sta_c>#ffffff</thm_menu_sta_c>
 		<thm_menu_sta_t/>
 		<thm_compact>0</thm_compact>
-		<row_module_id.mdl_name>RepubliqueFrancaise</row_module_id.mdl_name>
+		<row_module_id.mdl_name>RepubliqueFrancaiseTheme</row_module_id.mdl_name>
 	</data>
 </object>
 </simplicite>

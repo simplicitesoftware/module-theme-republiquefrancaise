@@ -8,8 +8,8 @@
 ![](https://docs.simplicite.io//logos/logo250.png)
 * * *
 
-`RepubliqueFrancaise` module definition
-=======================================
+`RepubliqueFrancaiseTheme` module definition
+============================================
 
 "République Française" theme
 ----------------------------
